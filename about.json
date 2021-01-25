@@ -5,14 +5,14 @@
       "msg": "FeedsPub",
       "color": "brightgreen",
       "urlBase": "https://feeds.pub/feed/-feed-",
-      "-feed-": "https://www.wdssmq.com/feed.php"
+      "feed": "https://www.wdssmq.com/feed.php"
     },
     {
       "label": "Feed",
       "msg": "Inoreader",
       "color": "blue",
-      "urlBase": "https://www.innoreader.com/feed/",
-      "-feed-": "https://www.wdssmq.com/feed.php"
+      "urlBase": "https://www.innoreader.com/feed/-feed-",
+      "feed": "https://www.wdssmq.com/feed.php"
     },
     {
       "label": "Feed",
@@ -21,9 +21,11 @@
       "url": "https://feed.wdssmq.com"
     },
     {
+      "label": "mastodon",
+      "msg": "wdssmq",
       "imgBase": "https://img.shields.io/mastodon/follow/-id-?domain=-domain-",
-      "-id-": 59876,
-      "-domain-": "https://acg.mn/",
+      "id": 59876,
+      "domain": "https://acg.mn/",
       "url": "https://acg.mn/invite/DXwRtTMG"
     }
   ]
