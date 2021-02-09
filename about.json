@@ -1,6 +1,11 @@
 {
   "shields": [
     {
+      "label": "",
+      "msg": "SEO是啥联盟",
+      "color": "yellowgreen"
+    },
+    {
       "label": "Feed",
       "msg": "FeedsPub",
       "color": "brightgreen",
@@ -19,6 +24,12 @@
       "msg": "feed.wdssmq.com",
       "color": "yellow",
       "url": "https://feed.wdssmq.com"
+    },
+    {
+      "label": "QQ",
+      "msg": "349467624",
+      "color": "0086F9",
+      "url": "https://wpa.qq.com/msgrd?v=3&uin=349467624&site=qq&menu=yes"
     },
     {
       "label": "mastodon",
