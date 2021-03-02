@@ -5,8 +5,17 @@
 
 沉冰浮水正在创作和 z-blog 相关或无关的各种有用或没用的代码 | 爱发电：
 
-[https://www.afdian.net/@wdssmq](https://www.afdian.net/@wdssmq "沉冰浮水正在创作和z-blog相关或无关的各种有用或没用的代码 | 爱发电")
+[https://www.afdian.net/@wdssmq](https://www.afdian.net/@wdssmq "沉冰浮水正在创作和 z-blog 相关或无关的各种有用或没用的代码 | 爱发电")
 
 ## JSON
 
 https://raw.githubusercontent.com/wdssmq/about/main/about.json
+
+## 二维码
+
+![qr-ali](doc/qr-ali.png "qr-ali")
+![qr-wx](doc/qr-wx.png "qr-wx")
+![qr-qq](doc/qr-qq.png "qr-qq")
+
+<!-- 838 / 3 = 279 -->
+
