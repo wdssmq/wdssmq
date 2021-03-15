@@ -26,10 +26,10 @@
       "url": "https://feed.wdssmq.com"
     },
     {
-      "label": "QQ",
-      "msg": "349467624",
-      "color": "0086F9",
-      "url": "https://wpa.qq.com/msgrd?v=3&uin=349467624&site=qq&menu=yes"
+      "label": "爱发电",
+      "msg": "@wdssmq",
+      "color": "blueviolet",
+      "url": "https://afdian.net/@wdssmq"
     },
     {
       "label": "mastodon",
@@ -38,6 +38,12 @@
       "id": 142218,
       "domain": "https://wxw.moe/",
       "url": "https://wxw.moe/@wdssmq"
+    },
+    {
+      "label": "QQ",
+      "msg": "349467624",
+      "color": "0086F9",
+      "url": "https://wpa.qq.com/msgrd?v=3&uin=349467624&site=qq&menu=yes"
     }
   ]
 }
