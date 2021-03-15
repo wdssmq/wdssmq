@@ -19,3 +19,9 @@ https://raw.githubusercontent.com/wdssmq/about/main/about.json
 
 <!-- 838 / 3 = 279 -->
 
+```md
+![qr-ali](https://raw.githubusercontent.com/wdssmq/wdssmq/main/doc/qr-ali.png "qr-ali")
+![qr-wx](https://raw.githubusercontent.com/wdssmq/wdssmq/main/doc/qr-wx.png "qr-wx")
+![qr-qq](https://raw.githubusercontent.com/wdssmq/wdssmq/main/doc/qr-qq.png "qr-qq")
+```
+
