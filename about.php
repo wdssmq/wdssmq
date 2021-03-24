@@ -127,6 +127,7 @@
   </div>
   <div style="min-height: 37px;"></div>
 </div>
+<div class="clearfix"></div>
 <script type="text/javascript">
   $(function() {
     const mz_blogtitle = '<?php echo $blogtitle; ?>';
