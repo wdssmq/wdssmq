@@ -20,8 +20,13 @@ https://raw.githubusercontent.com/wdssmq/about/main/about.json
 <!-- 838 / 3 = 279 -->
 
 ```md
-![qr-ali](https://raw.githubusercontent.com/wdssmq/wdssmq/main/doc/qr-ali.png "qr-ali")
-![qr-wx](https://raw.githubusercontent.com/wdssmq/wdssmq/main/doc/qr-wx.png "qr-wx")
-![qr-qq](https://raw.githubusercontent.com/wdssmq/wdssmq/main/doc/qr-qq.png "qr-qq")
+![qr-ali](https://cdn.jsdelivr.net/gh/wdssmq/wdssmq@main/doc/qr-ali.png "qr-ali")
+![qr-wx](https://cdn.jsdelivr.net/gh/wdssmq/wdssmq@main/doc/qr-wx.png "qr-wx")
+![qr-qq](https://cdn.jsdelivr.net/gh/wdssmq/wdssmq@main/doc/qr-qq.png "qr-qq")
 ```
 
+```html
+<img src="https://cdn.jsdelivr.net/gh/wdssmq/wdssmq@main/doc/qr-ali.png" alt="qr-ali" title="qr-ali">
+<img src="https://cdn.jsdelivr.net/gh/wdssmq/wdssmq@main/doc/qr-wx.png" alt="qr-wx" title="qr-wx">
+<img src="https://cdn.jsdelivr.net/gh/wdssmq/wdssmq@main/doc/qr-qq.png" alt="qr-qq" title="qr-qq">
+```
