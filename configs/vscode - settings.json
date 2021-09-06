@@ -1,11 +1,14 @@
 {
+  "security.workspace.trust.untrustedFiles": "open",
   "window.zoomLevel": 1,
   "window.newWindowDimensions": "maximized",
   "window.restoreWindows": "one",
   "workbench.activityBar.visible": false,
+  "explorer.confirmDelete": false,
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "terminal.integrated.enableBell": true,
   "editor.suggest.shareSuggestSelections": true,
+  "git.confirmSync": false,
   "tabnine.experimentalAutoImports": true,
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
