@@ -1,54 +1,54 @@
 {
   "security.workspace.trust.untrustedFiles": "open",
-  "window.zoomLevel": 1,
-  "window.newWindowDimensions": "maximized",
-  "window.restoreWindows": "one",
+  // 窗口尺寸及缩放
+  // "window.zoomLevel": 1,
+  "window.newWindowDimensions": "maximized", // 最大化显示新窗口
+  "window.restoreWindows": "none", // 是否恢复窗口内容
+  // 工作台外观显示
   "workbench.iconTheme": "vscode-great-icons",
   "workbench.activityBar.visible": false,
-  "workbench.editor.enablePreview": false,
+  // "workbench.editor.enablePreview": false,
+  // 终端配置项
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "terminal.integrated.enableBell": true,
+  // 字体显示
   "editor.fontFamily": "'JetBrains Mono', Consolas, 'Courier New', monospace",
   "editor.fontSize": 15,
   "editor.fontLigatures": true,
+  // 代码自动提示
   "editor.suggestSelection": "recentlyUsedByPrefix",
   "editor.suggest.shareSuggestSelections": true,
   "editor.inlineSuggest.enabled": true,
+  // 折行控制
+  "editor.wordWrapColumn": 137,
   "editor.wordWrap": "bounded",
-  "git.confirmSync": false,
-  "git.ignoreLegacyWarning": true,
-  "tabnine.experimentalAutoImports": true,
-  "[javascript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  // Git 相关
+  "git.confirmSync": false, // 同步前是否确认
+  "git.autofetch": true, // 自动拉取
+  // 排除选项
+  "search.exclude": {
+      "**/.history": true
   },
-  "[jsonc]": {
-    "editor.defaultFormatter": "vscode.json-language-features"
+  "files.exclude": {
+      "**/.history": true
   },
+  "files.watcherExclude": {
+      "**/.history": true
+  },
+  // eslint 校验
+  "eslint.validate": [
+      "javascript",
+      "javascriptreact",
+      "vue"
+  ],
+  // 各种文件的排版
   "[json]": {
-    "editor.defaultFormatter": "vscode.json-language-features"
+      "editor.defaultFormatter": "vscode.json-language-features"
   },
   "[markdown]": {
-    "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+      "editor.defaultFormatter": "yzhang.markdown-all-in-one"
   },
-  "[vue]": {
-    "editor.defaultFormatter": "octref.vetur"
+  "[jsonc]": {
+      "editor.defaultFormatter": "vscode.json-language-features"
   },
-  "[xml]": {
-    "editor.defaultFormatter": "redhat.vscode-xml"
-  },
-  "[html]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[typescript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "eslint.validate": [
-    "javascript",
-    "javascriptreact",
-    "vue"
-  ],
-  "vetur.format.defaultFormatter.js": "prettier-eslint",
-  "search.exclude": {
-    "**/.history": true
-  }
 }
