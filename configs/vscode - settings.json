@@ -10,7 +10,9 @@
   // "workbench.editor.enablePreview": false,
   // 终端配置项
   "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "terminal.integrated.fontFamily": "'FiraCode Nerd Font Mono', monospace",
   "terminal.integrated.enableBell": true,
+  "terminal.integrated.enableMultiLinePasteWarning": false,
   // 字体显示
   "editor.fontFamily": "'JetBrains Mono', Consolas, 'Courier New', monospace",
   "editor.fontSize": 15,
