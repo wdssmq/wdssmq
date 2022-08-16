@@ -111,5 +111,15 @@
     "key": "ctrl+shift+k",
     "command": "-editor.action.deleteLines",
     "when": "textInputFocus && !editorReadonly"
+  },
+  // 切换活动栏显示
+  {
+    "key": "ctrl+j",
+    "command": "workbench.action.toggleActivityBarVisibility"
+  },
+  // 解绑 - 切换终端面板
+  {
+    "key": "ctrl+j",
+    "command": "-workbench.action.togglePanel"
   }
 ]
