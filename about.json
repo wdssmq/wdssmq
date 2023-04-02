@@ -40,6 +40,39 @@
       "url": "https://wxw.moe/@wdssmq"
     },
     {
+      "label": "Feedly",
+      "msg": "Feedly",
+      "logo": "feedly",
+      "color": "2bb24c",
+      "query": "$.data.totalSubs",
+      "url": "https://api.spencerwoo.com/substats/?source=feedly&queryKey=-feed-",
+      "imgBase": "https://img.shields.io/badge/dynamic/json?style=social&label=-label-&query=-query-&url=-url-&color=-color-&logo=-logo-",
+      "urlBase": "https://feedly.com/i/subscription/feed%2F-feed-",
+      "feed": "https://www.wdssmq.com/feed.php"
+    },
+    {
+      "label": "哔哩哔哩",
+      "msg": "沉冰浮水",
+      "logo": "bilibili",
+      "color": "FE7398",
+      "query": "count",
+      "url": "https://api.swo.moe/stats/bilibili/-uid-",
+      "imgBase": "https://img.shields.io/badge/dynamic/json?style=social&label=-label-&query=-query-&url=-url-&color=-color-&logo=-logo-",
+      "urlBase": "https://space.bilibili.com/-uid-",
+      "uid": "44744006"
+    },
+    {
+      "label": "知乎",
+      "msg": "-uid-",
+      "color": "0084ff",
+      "logo": "zhihu",
+      "query": "count",
+      "url": "https://api.swo.moe/stats/zhihu/-uid-",
+      "imgBase": "https://img.shields.io/badge/dynamic/json?style=social&label=-label-&query=-query-&url=-url-&color=-color-&logo=-logo-",
+      "urlBase": "https://afdian.net/a/-uid-",
+      "uid": "wdssmq"
+    },
+    {
       "label": "QQ",
       "msg": "349467624",
       "color": "0086F9",
