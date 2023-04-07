@@ -6,7 +6,7 @@
 
 留言本 / 关于：[https://www.wdssmq.com/guestbook.html](https://www.wdssmq.com/guestbook.html "留言本 / 关于\_沉冰浮水\_置百丈玄冰而崩裂，掷须臾池水而漂摇。")
 
-爱发电：[https://www.afdian.net/@wdssmq](https://www.afdian.net/@wdssmq "沉冰浮水正在创作和 z-blog 相关或无关的各种有用或没用的代码 | 爱发电")
+爱发电：[https://www.afdian.net/@wdssmq](https://www.afdian.net/@wdssmq "沉冰浮水正在创作和 z-blog 相关或无关的各种有用或没用的代码_爱发电")
 
 <!-- ## JSON -->
 
