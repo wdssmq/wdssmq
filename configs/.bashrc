@@ -3,8 +3,9 @@ alias code-bashrc="code ~/.bashrc"
 # 重载 .bashrc
 alias reload-bashrc="source ~/.bashrc"
 
-# ssh 目录
-alias ssh-l="cd ~/.ssh && ls"
+# .ssh 查看
+alias l-ssh="cd ~/.ssh && ls"
+alias code-pub="code ~/.ssh/*.pub"
 
 # ls
 alias ll='ls -alF'
