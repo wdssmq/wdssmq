@@ -12,6 +12,8 @@ alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
 
+# 启动 caddy
+alias caddy-start="caddy start --config ~/wwwroot/caddy/Caddyfile"
 # 重启 caddy
 alias caddy-reload="caddy reload --config ~/wwwroot/caddy/Caddyfile"
 
