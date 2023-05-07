@@ -12,6 +12,9 @@ alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
 
+# tmp 归档
+alias tmp-bak="mv ~/tmp ~/tmp-$(date +%Y-%m-%d) && mkdir ~/tmp"
+
 # 启动 caddy
 alias caddy-start="caddy start --config ~/wwwroot/caddy/Caddyfile"
 # 重启 caddy
