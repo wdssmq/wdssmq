@@ -6,7 +6,7 @@
 
 留言本 / 关于：[https://www.wdssmq.com/guestbook.html](https://www.wdssmq.com/guestbook.html "留言本 / 关于\_沉冰浮水\_置百丈玄冰而崩裂，掷须臾池水而漂摇。")
 
-爱发电：[https://afdian.net/a/wdssmq](https://afdian.net/a/wdssmq "沉冰浮水正在创作和 z-blog 相关或无关的各种有用或没用的代码 | 爱发电")
+爱发电：[https://afdian.net/a/wdssmq](https://afdian.net/a/wdssmq "沉冰浮水正在创作和 z-blog 相关或无关的各种有用或没用的代码 - 爱发电")
 
 哔哩哔哩：[https://space.bilibili.com/44744006](https://space.bilibili.com/44744006 "沉冰浮水的个人空间\_哔哩哔哩\_bilibili")
 
@@ -57,20 +57,28 @@ RSS 订阅：[https://feed.wdssmq.com/](https://feed.wdssmq.com/ "沉冰浮水�
   </tr>
 </table>
 
+<!-- ↓↓ 2023-06-28 ↓↓ -->
+
 <!-- 838 / 3 = 279 -->
 
+<!--
 ```md
+
 ![qr-ali](https://fastly.jsdelivr.net/gh/wdssmq/wdssmq@main/doc/qr-ali.png "qr-ali")
 ![qr-wx](https://fastly.jsdelivr.net/gh/wdssmq/wdssmq@main/doc/qr-wx.png "qr-wx")
 ![qr-qq](https://fastly.jsdelivr.net/gh/wdssmq/wdssmq@main/doc/qr-qq.png "qr-qq")
-```
 
+```
+-->
+
+<!--
 ```html
+
 <img src="https://fastly.jsdelivr.net/gh/wdssmq/wdssmq@main/doc/qr-ali.png" alt="qr-ali" title="qr-ali">
 <img src="https://fastly.jsdelivr.net/gh/wdssmq/wdssmq@main/doc/qr-wx.png" alt="qr-wx" title="qr-wx">
 <img src="https://fastly.jsdelivr.net/gh/wdssmq/wdssmq@main/doc/qr-qq.png" alt="qr-qq" title="qr-qq">
+
 ```
+-->
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=wdssmq&show_icons=true) -->
-
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=wdssmq.wdssmq) -->
+<!-- ↑↑ 2023-06-28 ↑↑ -->
