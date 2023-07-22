@@ -13,6 +13,17 @@
       "feed": "https://www.wdssmq.com/feed.php"
     },
     {
+      "label": "FeedsPub",
+      "msg": "wdssmq",
+      "logo": "feedspub",
+      "color": "brightgreen",
+      "query": "count",
+      "queryUrl": "https://api.swo.moe/stats/feedspub/-%feed%-",
+      "imgBase": "https://img.shields.io/badge/dynamic/json?label=-label-&query=-query-&url=-queryUrl-&color=-color-&logo=-logo-&suffix=+subs&cacheSeconds=14400",
+      "urlBase": "https://feeds.pub/feed/-feed-",
+      "feed": "https://www.wdssmq.com/feed.php"
+    },
+    {
       "label": "Feed",
       "msg": "Inoreader",
       "color": "blue",
@@ -29,19 +40,19 @@
       "label": "爱发电",
       "msg": "@wdssmq",
       "color": "blueviolet",
-      "url": "https://afdian.net/@wdssmq"
+      "url": "https://afdian.net/a/wdssmq"
     },
     {
-      "label": "mastodon",
-      "msg": "wdssmq",
-      "imgBase": "https://img.shields.io/mastodon/follow/-id-?domain=-domain-",
+      "label": "嘟特",
+      "msg": "@wdssmq",
+      "imgBase": "https://img.shields.io/mastodon/follow/-id-?style=social&label=-label-&domain=-domain-",
       "id": 142218,
       "domain": "https://wxw.moe/",
-      "url": "https://wxw.moe/@wdssmq"
+      "url": "https://wxw.moe/users/wdssmq"
     },
     {
       "label": "Feedly",
-      "msg": "Feedly",
+      "msg": "wdssmq",
       "logo": "feedly",
       "color": "2bb24c",
       "query": "$.data.totalSubs",
@@ -63,7 +74,7 @@
     },
     {
       "label": "知乎",
-      "msg": "-uid-",
+      "msg": "沉冰浮水",
       "color": "0084ff",
       "logo": "zhihu",
       "query": "count",
@@ -71,6 +82,13 @@
       "imgBase": "https://img.shields.io/badge/dynamic/json?style=social&label=-label-&query=-query-&url=-url-&color=-color-&logo=-logo-",
       "urlBase": "https://afdian.net/a/-uid-",
       "uid": "wdssmq"
+    },
+    {
+      "label": "GitHub",
+      "msg": "wdssmq",
+      "imgBase":"https://img.shields.io/github/followers/wdssmq?style=social&label=-label-",
+      "urlBase":"https://github.com/-uid-",
+      "uid":"wdssmq"
     },
     {
       "label": "QQ",
