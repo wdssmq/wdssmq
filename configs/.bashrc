@@ -15,13 +15,8 @@ alias l='ls -CF'
 # tmp 归档
 alias tmp-bak="mv ~/tmp ~/tmp-$(date +%Y-%m-%d) && mkdir ~/tmp"
 
-# 启动 caddy
-alias caddy-start="caddy start --config ~/wwwroot/caddy/Caddyfile"
-# 重启 caddy
-alias caddy-reload="caddy reload --config ~/wwwroot/caddy/Caddyfile"
-
-# zbp livereload
-alias zbpsync='browser-sync start --proxy "http://127.0.0.1:8081/" \
---cwd "~/Git" \
---ignore "**/bin/*.*, **/cache/*.*, **/usr/*.*" \
---files "plugin/**/*.css, plugin/**/*.html, plugin/**/*.js, plugin/**/*.php, plugin/**/*.txt"'
+# zbp browser-sync
+alias zbp-bs='browser-sync start --config "/home/wdssmq/Git/plugin/mz_BrowserSync/usr/bs-config.js" --proxy "http://127.0.0.1:8081/" \
+--cwd "/home/wdssmq/Git" \
+--files "plugin/**/*.css, plugin/**/*.html, plugin/**/*.js, plugin/**/*.php"
+# —— 只监听插件变'
