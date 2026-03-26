@@ -1,0 +1,7 @@
+{
+  "files.exclude": {
+    "configs/.editorconfig": true,
+    "configs/.gitignore": true,
+    "configs/README.md": true,
+  }
+}
